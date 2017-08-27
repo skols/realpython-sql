@@ -1,4 +1,4 @@
-# Create a SQLite3 database and table
+# Cars database homework 1
 
 # import the sqlite3 library
 import sqlite3
